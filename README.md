@@ -1,5 +1,4 @@
 # Bootstrap Portfolio -- UoB Bootcamp Module 2 Challenge -- roliveira527
-Module 3 Challenge for UoB Skills Bootcamp in Front-End Web Development &amp; UX
 
 ## Description
 Module 3 Challenge for UoB Skills Bootcamp in Front-End Web Development & UX
@@ -9,3 +8,12 @@ The objective of this challenge is to develop a portfolio webpage using Bootstra
 
 ## Deployment
 The page is deployed on GitHub Pages which can be accessed via the link: https://roliveira527.github.io/bootstrap-portfolio-roliveira527/
+
+## Screenshot
+
+### Project Outcome:
+![Screenshot of expected (structural) outcome](images/portfolio-screenshot.png)
+
+
+### Previous Project:
+![Screenshot of expected (structural) outcome](images/02-challenge-outcome.png)
