@@ -11,4 +11,9 @@ The page is deployed on GitHub Pages which can be accessed via the link: https:/
 
 ## Screenshot
 
+### Project Outcome:
 ![Screenshot of expected (structural) outcome](images/portfolio-screenshot.png)
+
+
+### Previous Project:
+![Screenshot of expected (structural) outcome](images/02-challenge-outcome.png)
